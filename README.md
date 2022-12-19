@@ -17,7 +17,7 @@
 Замен стало меньше
 
 <img width="173" alt="Снимок экрана 2022-12-19 в 18 14 25" src="https://user-images.githubusercontent.com/60537367/208457924-1129704f-b09f-4b14-a21f-077185f72ee3.png">
-
+А отношение ts tv немного выросло
 
 <img width="242" alt="Снимок экрана 2022-12-19 в 18 17 03" src="https://user-images.githubusercontent.com/60537367/208458533-b33cefcf-c1e0-4a3e-bddd-51538d287bc6.png">
 также здесь видно кол-во гомо- и гетерозигот по заменам
